@@ -62,7 +62,7 @@ node red
 
 ## Node-Red操作說明
 
--編輯inject節點
+- 編輯inject節點
 ![image](R1.jpeg)
 ## 參考資料
 https://tutorials.webduino.io/zh-tw/docs/socket/useful/node-red.html
