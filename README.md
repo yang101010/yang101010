@@ -71,6 +71,15 @@ node red
 - 將結點連起來
 
 ![image](R3.png)
+- 點擊部署
+
+
+![image](13.png)
+
+- 查看除錯窗口
+
+
+![image](14.png)
 ## 參考資料
 https://tutorials.webduino.io/zh-tw/docs/socket/useful/node-red.html
 https://www.youtube.com/watch?v=_FxcQSjr0Tc
