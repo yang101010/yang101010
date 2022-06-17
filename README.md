@@ -63,7 +63,14 @@ node red
 ## Node-Red操作說明
 
 - 編輯inject節點
-![image](R1.jpeg)
+
+![image](R1.png)
+- 編輯http request節點
+
+![image](R2.png)
+- 將結點連起來
+
+![image](R3.png)
 ## 參考資料
 https://tutorials.webduino.io/zh-tw/docs/socket/useful/node-red.html
 https://www.youtube.com/watch?v=_FxcQSjr0Tc
