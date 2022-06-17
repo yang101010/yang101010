@@ -26,7 +26,7 @@ Node-Red官方網站: https://nodered.org/
 - 更新系統
 ```shell
 sudo apt update
-sudo aptupgrade -y
+sudo apt upgrade -y
 ```
 - 安裝Node.js
 ```shell
@@ -53,7 +53,7 @@ sudo ufw allow 1880
 ```
 - 打開Node-Red
 ```shell
-node red
+node-red
 ```
 - 與Node-Red連結
 
